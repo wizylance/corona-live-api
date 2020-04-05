@@ -1,0 +1,15 @@
+{
+  "name": "corona-live-api",
+  "version": "1.0.0",
+  "description": "API for Corona Live web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Khoa Tran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.3"
+  }
+}
