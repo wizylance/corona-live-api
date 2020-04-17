@@ -1,6 +1,8 @@
 # corona-live-api
 API for Corona Live web
 
+The data is fetched from https://covid19api.com/
+
 ## REST API
 
 ### GET api/countries
