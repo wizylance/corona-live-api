@@ -1,10 +1,11 @@
 # corona-live-api
 API for Corona Live web
 
-Web: https://github.com/wizylance/corona-live
-API: https://github.com/wizylance/corona-live-api
+* Web: https://github.com/wizylance/corona-live
 
-The data is fetched from https://covid19api.com/
+* API: https://github.com/wizylance/corona-live-api
+
+* The data is fetched from https://covid19api.com/
 
 ## REST API
 
